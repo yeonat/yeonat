@@ -13,6 +13,6 @@ const user = {
 
 [![Twitter Badge](https://img.shields.io/badge/@yeonat-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/yeonat)
 [![LinkedIn Badge](https://img.shields.io/badge/jonatansosa-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonatansosa)
-[![Release](https://img.shields.io/badge/last_major_release-1991-gray?style=for-the-badge)](https://github.com/)
+[![Release](https://img.shields.io/badge/last_major_release-1991?style=for-the-badge)](https://github.com/)
 [![Size](https://img.shields.io/badge/unminified_size-170_cm-ff69b4?style=for-the-badge)](https://github.com/)
 [![Quality](https://img.shields.io/badge/code_quality-outstanding-ff0558?style=for-the-badge)](https://github.com/)

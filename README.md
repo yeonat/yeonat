@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 Hi, I'm Jonatan!
 
-<!--
-**yeonat/yeonat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a solo game developer. Bases in Lima, Perú.
 
-Here are some ideas to get you started:
+```javascript
+const user = {
+  code: ["C++", "C#", "HLSL", "Python", Lua, Luau, Javascript],
+  engines: ["Unreal Engine", "Unity", "Roblox Studio"],
+  tools: ["Git", "Visual Studio"],
+  architecture: ["Software Patterns", "Game Systems", "Memory Optimization"],
+};
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Twitter Badge](https://img.shields.io/badge/@TuUsuario-00acee?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yeonat)
+[![LinkedIn Badge](https://img.shields.io/badge/TuNombre-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonatansosa)
+[![Release](https://img.shields.io/badge/last_major_release-1995-gray?style=for-the-badge)](https://github.com/)
+[![Size](https://img.shields.io/badge/unminified_size-180_cm-ff69b4?style=for-the-badge)](https://github.com/)
+[![Quality](https://img.shields.io/badge/code_quality-outstanding-ff0558?style=for-the-badge)](https://github.com/)

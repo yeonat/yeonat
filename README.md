@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jonatan!
 
-I'm a game developer. Bases in Lima, Perú.
+I specialize in Game Development & Software Patterns. Based in Lima, Perú.
 
 ```javascript
 const user = {
